@@ -1,0 +1,6 @@
+.style{
+  border: 2px solid tan;
+  display: flex ;
+  flex-direction: column;
+  gap:20px;
+}
